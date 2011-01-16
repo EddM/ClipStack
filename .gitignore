@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+*.obj
+*.exe
+*.pdb
+*.suo
+*.bak
+*.cache
+*.log
+App_Data/
+build/*.dll
